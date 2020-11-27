@@ -1,0 +1,42 @@
+6. It is 600.
+7. It is called the super user.
+8. Unix has three file permission classes: User, group and others.
+9. According to w3techs.com (https://w3techs.com/technologies/details/os-unix) Unix is used by 71,9% of websites. 
+10. ssh is a command that ecrypts a hosts connection to another host over a insecure network.
+11. You have to use the "pwd" command.
+12. You have to use the "mv" command. Example: mv new-file.txt super-secret-file.txt
+13. You have to use the "crontab -e" command.
+14. You have to use the "kill" command together with the prossess id (PID). In this example it would be "kill 123".
+15. You have to use the "sudo -i/sudo -s" command. After that you have to write your password for your user.
+16. You write: 
+	crontab -e
+	30 * * * 7	or
+	30 * * * 0
+17. You write: 
+	crontab -e
+	30 * 15 * *
+18. You write: 
+	crontab -e
+	30 5 * 6 0-1
+19. To print my name you can write:
+	name=$"Mons"
+	echo $name
+    To print the date you can write:
+	whatsthedate=$(date +%d-%m-%y)
+	echo $whatsthedate
+20. To add toghether two numeric values you can write:
+	num1=$"1"
+	num2=$"2"
+	num3=$((num1+num2))
+	echo $num3
+21. To do this you can write:
+    echo "$USER"'stored'
+22. To do this you can write:
+	x=$(hostname)
+	echo "This script is running on $x."
+23. You can write:
+	directory=$(pwd)  
+	echo "$directory"
+24. Hello
+25.
+

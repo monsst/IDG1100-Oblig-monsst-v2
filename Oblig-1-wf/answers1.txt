@@ -1,0 +1,5 @@
+1. Von Neumann architecture is composed of a CPU, memory, and input/output (I/O) interfaces.
+2. All the memory from the user that runs outside the operating system's kernel space. 
+3. A shell is a program which gives a human user or another program access to different services provided by the OS.
+4. It is located in the user space.
+5. A shell can manage files and run commands written by a user.

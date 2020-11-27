@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+h3{
+    color: orange;
+}
+
+body{
+    padding: 5%;
+    background-color: rgb(241, 241, 241);
+}
+
+.box{
+    box-shadow: 5px 5px 5px black;
+    background-color: white;
+    padding: 5px;
+}
